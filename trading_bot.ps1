@@ -1,4 +1,4 @@
 Write-Host "📈 Setting up your trading bot... (placeholder for real bot logic)" -ForegroundColor Green
 
-# Example: run your Python bot
+# Example:
 # python trading_bot.py
